@@ -1,0 +1,3 @@
+yfinance
+psycopg2
+pandas
